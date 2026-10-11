@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>商品情報エンリッチメント スタジオ | AI Commerce Search × Google Cloud</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/enrich.css?v=3">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23004098'/%3E%3Ctext x='16' y='22' font-size='16' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'%3EA%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+  <header class="app-header">
+    <a class="brand" href="#/dashboard" aria-label="ダッシュボードへ">
+      <span class="logo">AI<span class="logo-i">C</span>S</span>
+      <span class="brand-sep"></span>
+      <span class="app-title">商品情報エンリッチメント スタジオ</span>
+    </a>
+    <div class="header-right">
+      <span class="mock-pill" id="mock-pill" hidden>MOCK データ</span>
+      <span class="powered"><span class="g-dots"><i></i><i></i><i></i><i></i></span>Powered by <b>Gemini on Vertex AI</b></span>
+      <span class="model-pill" title="使用モデル"><span class="model-dot"></span><span id="model-name">—</span></span>
+    </div>
+  </header>
+
+  <div class="app-body">
+    <nav class="sidebar" id="sidebar" aria-label="メインメニュー">
+      <a href="#/dashboard" data-route="dashboard" class="nav-item"><span class="nav-ic" data-icon="dash"></span><span>ダッシュボード</span></a>
+      <a href="#/products" data-route="products" class="nav-item"><span class="nav-ic" data-icon="list"></span><span>商品一覧</span></a>
+      <a href="#/studio" data-route="studio" class="nav-item"><span class="nav-ic" data-icon="studio"></span><span>エンリッチ・スタジオ</span></a>
+      <a href="#/csv" data-route="csv" class="nav-item"><span class="nav-ic" data-icon="csv"></span><span>CSV ライブテスト</span></a>
+      <a href="#/images" data-route="images" class="nav-item"><span class="nav-ic" data-icon="images"></span><span>季節画像スタジオ</span><span class="nav-new">NEW</span></a>
+      <a href="#/docs" data-route="docs" class="nav-item"><span class="nav-ic" data-icon="docs"></span><span>資料から抽出</span><span class="nav-new">NEW</span></a>
+      <a href="#/gmc" data-route="gmc" class="nav-item"><span class="nav-ic" data-icon="gmc"></span><span>GMC 会話属性</span></a>
+      <a href="#/reviews" data-route="reviews" class="nav-item"><span class="nav-ic" data-icon="review"></span><span>HITLレビュー</span><span class="nav-badge" id="review-badge" hidden></span></a>
+      <a href="#/batch" data-route="batch" class="nav-item"><span class="nav-ic" data-icon="batch"></span><span>バッチ &amp; コスト</span></a>
+      <div class="sidebar-foot">
+        <div class="sf-title">PoC デモ</div>
+        <div class="sf-sub">AI Commerce Search × Google Cloud</div>
+      </div>
+    </nav>
+
+    <main class="main">
+      <section class="stepper-wrap" aria-label="処理パイプライン">
+        <div class="stepper" id="stepper"></div>
+      </section>
+      <div id="view" class="view"></div>
+    </main>
+  </div>
+
+  <div id="toasts" class="toasts" aria-live="polite"></div>
+  <script type="module" src="/static/js/app.js?v=3"></script>
+</body>
+</html>

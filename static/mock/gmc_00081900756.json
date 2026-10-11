@@ -1,0 +1,186 @@
+{
+ "product": {
+  "sku": "00081900756",
+  "title": "ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H グレー",
+  "brand": "ハイアール",
+  "category": "冷蔵庫・洗濯機 > 冷蔵庫 > 400L～499L",
+  "description": "ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H。フレンチドアを採用した、使いやすい大容量モデルです。冷凍室は142Lの大容量で、まとめ買いや作り置きにも便利。自動製氷機能付きで、給水タンクに水を入れるだけで氷を作ります。本体上部はキズや汚れに強いガラストップ仕上げ。年間消費電力量は約338kWh/年と省エネ性能にも配慮しています。",
+  "product_url": "https://store.example.com/detail.html?p_cd=00081900756",
+  "image_url": "https://placehold.co/600x600/eef2f7/004098?text=JR-GX41E5-H",
+  "price": 139800,
+  "group": "fridge",
+  "group_label": "冷蔵庫",
+  "raw_attributes": {
+   "dimensions": "W70.0×H177.5×D68.0cm",
+   "weight": "110kg",
+   "capacity": "406L",
+   "freezer_capacity": "142L",
+   "annual_power_consumption": "338kWh/年(50/60Hz)",
+   "power_supply": "AC100V 50/60Hz",
+   "door_type": "フレンチドア"
+  }
+ },
+ "source_text": "【タイトル】ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H グレー\n【説明文】ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H。フレンチドアを採用した、使いやすい大容量モデルです。冷凍室は142Lの大容量で、まとめ買いや作り置きにも便利。自動製氷機能付きで、給水タンクに水を入れるだけで氷を作ります。本体上部はキズや汚れに強いガラストップ仕上げ。年間消費電力量は約338kWh/年と省エネ性能にも配慮しています。\n【属性】\ndimensions: W70.0×H177.5×D68.0cm\nweight: 110kg\ncapacity: 406L\nfreezer_capacity: 142L\nannual_power_consumption: 338kWh/年(50/60Hz)\npower_supply: AC100V 50/60Hz\ndoor_type: フレンチドア",
+ "gmc": {
+  "sku": "00081900756",
+  "item_group_id": "JR-GX41E5",
+  "item_group_title": "ハイアール 406L 4ドア冷蔵庫 JR-GX41E5",
+  "variant_options": [
+   {
+    "name": "カラー",
+    "value": "グレー",
+    "evidence": "グレー",
+    "evidence_match": 1.0
+   },
+   {
+    "name": "定格内容積",
+    "value": "406L",
+    "evidence": "406L",
+    "evidence_match": 1.0
+   },
+   {
+    "name": "ドアタイプ",
+    "value": "フレンチドア",
+    "evidence": "フレンチドアを採用",
+    "evidence_match": 1.0
+   }
+  ],
+  "questions_and_answers": [
+   {
+    "question": "設置に必要な本体サイズはどのくらいですか？",
+    "answer": "本体サイズは幅700mm×高さ1775mm×奥行680mmです。",
+    "evidence": "W70.0×H177.5×D68.0cm",
+    "confidence": 0.96,
+    "evidence_match": 1.0,
+    "score": 0.984,
+    "status": "auto_approved"
+   },
+   {
+    "question": "冷凍室の容量はどれくらいですか？",
+    "answer": "冷凍室は142Lの大容量で、まとめ買いや作り置きにも便利です。",
+    "evidence": "冷凍室は142Lの大容量",
+    "confidence": 0.95,
+    "evidence_match": 1.0,
+    "score": 0.98,
+    "status": "auto_approved"
+   },
+   {
+    "question": "自動製氷機能はありますか？",
+    "answer": "はい、自動製氷機能付きで、給水タンクに水を入れるだけで氷を作ります。",
+    "evidence": "自動製氷機能付き",
+    "confidence": 0.97,
+    "evidence_match": 1.0,
+    "score": 0.988,
+    "status": "auto_approved"
+   },
+   {
+    "question": "何人家族におすすめですか？",
+    "answer": "4〜5人家族におすすめのサイズです。",
+    "evidence": "4〜5人家族向け",
+    "confidence": 0.66,
+    "evidence_match": 0.0,
+    "score": 0.264,
+    "status": "needs_review"
+   }
+  ],
+  "product_highlights": [
+   "冷凍室142Lの大容量でまとめ買いに便利",
+   "給水タンク式の自動製氷機能付き",
+   "使いやすいフレンチドアの4ドア設計",
+   "キズや汚れに強いガラストップ仕上げ"
+  ],
+  "product_details": [
+   {
+    "section": "サイズ・重量",
+    "attribute": "幅",
+    "value": "700mm"
+   },
+   {
+    "section": "サイズ・重量",
+    "attribute": "高さ",
+    "value": "1775mm"
+   },
+   {
+    "section": "サイズ・重量",
+    "attribute": "奥行",
+    "value": "680mm"
+   },
+   {
+    "section": "サイズ・重量",
+    "attribute": "重量",
+    "value": "110kg"
+   },
+   {
+    "section": "容量",
+    "attribute": "定格内容積",
+    "value": "406L"
+   },
+   {
+    "section": "容量",
+    "attribute": "冷凍室容量",
+    "value": "142L"
+   },
+   {
+    "section": "電源",
+    "attribute": "電源電圧",
+    "value": "100V"
+   },
+   {
+    "section": "基本仕様",
+    "attribute": "ドア数",
+    "value": "4ドア"
+   },
+   {
+    "section": "基本仕様",
+    "attribute": "ドアタイプ",
+    "value": "フレンチドア"
+   },
+   {
+    "section": "機能・特長",
+    "attribute": "搭載機能",
+    "value": "自動製氷 / フレンチドア / ガラストップ / 大容量冷凍"
+   }
+  ],
+  "related_products": [
+   {
+    "relationship_type": "often_bought_with",
+    "identifier_type": "id",
+    "identifier": "00081765432",
+    "title": "ダイキン ルームエアコン 6畳 AN22ZES-W ホワイト"
+   },
+   {
+    "relationship_type": "similar_to",
+    "identifier_type": "id",
+    "identifier": "00081655555",
+    "title": "山善 DCモーター扇風機 リモコン付き YLX-ED301"
+   }
+  ],
+  "popularity_rank": 78.5,
+  "document_link": "https://store.example.com/download/manual/JR-GX41E5.pdf",
+  "model": "gemini-3.8-flash",
+  "job_id": "csv-live-20260930_062000",
+  "updated_at": "2026-09-30T06:20:00+00:00",
+  "variant_option": "カラー:グレー,定格内容積:406L,ドアタイプ:フレンチドア",
+  "question_and_answer": "\"設置に必要な本体サイズはどのくらいですか？\":\"本体サイズは幅700mm×高さ1775mm×奥行680mmです。\", \"冷凍室の容量はどれくらいですか？\":\"冷凍室は142Lの大容量で、まとめ買いや作り置きにも便利です。\", \"自動製氷機能はありますか？\":\"はい、自動製氷機能付きで、給水タンクに水を入れるだけで氷を作ります。\", \"何人家族におすすめですか？\":\"4〜5人家族におすすめのサイズです。\"",
+  "product_highlight": "\"冷凍室142Lの大容量でまとめ買いに便利\", \"給水タンク式の自動製氷機能付き\", \"使いやすいフレンチドアの4ドア設計\", \"キズや汚れに強いガラストップ仕上げ\"",
+  "product_detail": "サイズ・重量:幅:\"700mm\", サイズ・重量:高さ:\"1775mm\", サイズ・重量:奥行:\"680mm\", サイズ・重量:重量:\"110kg\", 容量:定格内容積:\"406L\", 容量:冷凍室容量:\"142L\", 電源:電源電圧:\"100V\", 基本仕様:ドア数:\"4ドア\", 基本仕様:ドアタイプ:\"フレンチドア\", 機能・特長:搭載機能:\"自動製氷 / フレンチドア / ガラストップ / 大容量冷凍\"",
+  "related_product": "often_bought_with:id:00081765432,similar_to:id:00081655555"
+ },
+ "feed_row": {
+  "id": "00081900756",
+  "item_group_id": "JR-GX41E5",
+  "title": "ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H グレー",
+  "item_group_title": "ハイアール 406L 4ドア冷蔵庫 JR-GX41E5",
+  "variant_option": "カラー:グレー,定格内容積:406L,ドアタイプ:フレンチドア",
+  "question_and_answer": "\"設置に必要な本体サイズはどのくらいですか？\":\"本体サイズは幅700mm×高さ1775mm×奥行680mmです。\", \"冷凍室の容量はどれくらいですか？\":\"冷凍室は142Lの大容量で、まとめ買いや作り置きにも便利です。\", \"自動製氷機能はありますか？\":\"はい、自動製氷機能付きで、給水タンクに水を入れるだけで氷を作ります。\", \"何人家族におすすめですか？\":\"4〜5人家族におすすめのサイズです。\"",
+  "product_highlight": "\"冷凍室142Lの大容量でまとめ買いに便利\", \"給水タンク式の自動製氷機能付き\", \"使いやすいフレンチドアの4ドア設計\", \"キズや汚れに強いガラストップ仕上げ\"",
+  "product_detail": "サイズ・重量:幅:\"700mm\", サイズ・重量:高さ:\"1775mm\", サイズ・重量:奥行:\"680mm\", サイズ・重量:重量:\"110kg\", 容量:定格内容積:\"406L\", 容量:冷凍室容量:\"142L\", 電源:電源電圧:\"100V\", 基本仕様:ドア数:\"4ドア\", 基本仕様:ドアタイプ:\"フレンチドア\", 機能・特長:搭載機能:\"自動製氷 / フレンチドア / ガラストップ / 大容量冷凍\"",
+  "related_product": "often_bought_with:id:00081765432,similar_to:id:00081655555",
+  "popularity_rank": 78.5,
+  "document_link": "https://store.example.com/download/manual/JR-GX41E5.pdf",
+  "brand": "ハイアール",
+  "price": "139800 JPY",
+  "link": "https://store.example.com/detail.html?p_cd=00081900756",
+  "image_link": "https://placehold.co/600x600/eef2f7/004098?text=JR-GX41E5-H"
+ }
+}

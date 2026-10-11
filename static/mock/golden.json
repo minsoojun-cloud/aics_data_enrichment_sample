@@ -1,0 +1,159 @@
+{
+ "items": [
+  {
+   "sku": "00081900756",
+   "title": "ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H グレー",
+   "group": "fridge",
+   "attributes": {
+    "width_mm": {
+     "value": 700.0,
+     "unit": "mm",
+     "score": 0.979,
+     "status": "auto_approved"
+    },
+    "height_mm": {
+     "value": 1775.0,
+     "unit": "mm",
+     "score": 0.977,
+     "status": "auto_approved"
+    },
+    "depth_mm": {
+     "value": 680.0,
+     "unit": "mm",
+     "score": 0.979,
+     "status": "auto_approved"
+    },
+    "weight_kg": {
+     "value": 110.0,
+     "unit": "kg",
+     "score": 0.987,
+     "status": "auto_approved"
+    },
+    "total_capacity_l": {
+     "value": 406.0,
+     "unit": "L",
+     "score": 0.992,
+     "status": "auto_approved"
+    },
+    "freezer_capacity_l": {
+     "value": 142.0,
+     "unit": "L",
+     "score": 0.969,
+     "status": "auto_approved"
+    },
+    "power_supply_v": {
+     "value": 100.0,
+     "unit": "V",
+     "score": 0.982,
+     "status": "auto_approved"
+    },
+    "door_count": {
+     "value": 4,
+     "unit": "ドア",
+     "score": 0.972,
+     "status": "auto_approved"
+    },
+    "door_type": {
+     "value": "フレンチドア",
+     "unit": "",
+     "score": 0.977,
+     "status": "auto_approved"
+    }
+   },
+   "feature_tags": [
+    "自動製氷",
+    "フレンチドア",
+    "ガラストップ",
+    "大容量冷凍"
+   ],
+   "search_keywords": [
+    "大容量 冷蔵庫",
+    "4ドア 冷蔵庫 フレンチドア",
+    "自動製氷 冷蔵庫",
+    "ハイアール 冷蔵庫 400L",
+    "冷凍室 大きい 冷蔵庫"
+   ],
+   "ai_summary": "冷凍室142Lの大容量と自動製氷を備えた、幅70cmのフレンチドア4ドア冷蔵庫。まとめ買い派のファミリーに最適です。",
+   "fill_rate_before": 0.562,
+   "fill_rate_after": 0.688,
+   "updated_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00082233104",
+   "title": "ドウシシャ ハンディファン 充電式 PIERIA FHS-19C ホワイト",
+   "group": "handy",
+   "attributes": {
+    "width_mm": {
+     "value": 105.0,
+     "unit": "mm",
+     "score": 0.969,
+     "status": "auto_approved"
+    },
+    "height_mm": {
+     "value": 220.0,
+     "unit": "mm",
+     "score": 0.969,
+     "status": "auto_approved"
+    },
+    "depth_mm": {
+     "value": 45.0,
+     "unit": "mm",
+     "score": 0.967,
+     "status": "auto_approved"
+    },
+    "weight_kg": {
+     "value": 0.16,
+     "unit": "kg",
+     "score": 0.977,
+     "status": "auto_approved"
+    },
+    "blade_count": {
+     "value": 5,
+     "unit": "枚",
+     "score": 0.987,
+     "status": "auto_approved"
+    },
+    "is_cordless": {
+     "value": true,
+     "unit": "",
+     "score": 0.982,
+     "status": "auto_approved"
+    },
+    "battery_hours": {
+     "value": 8.0,
+     "unit": "時間",
+     "score": 0.962,
+     "status": "auto_approved"
+    },
+    "charging_hours": {
+     "value": 3.0,
+     "unit": "時間",
+     "score": 0.972,
+     "status": "auto_approved"
+    },
+    "airflow_levels": {
+     "value": 3,
+     "unit": "段階",
+     "score": 0.977,
+     "status": "auto_approved"
+    }
+   },
+   "feature_tags": [
+    "コードレス",
+    "USB充電",
+    "卓上スタンド",
+    "軽量"
+   ],
+   "search_keywords": [
+    "ハンディファン 充電式",
+    "携帯扇風機 軽量",
+    "卓上 ハンディファン",
+    "USB 扇風機 コードレス"
+   ],
+   "ai_summary": "約160gの軽量ボディで最大約8時間使える充電式ハンディファン。卓上スタンド付きでデスクでも活躍します。",
+   "fill_rate_before": 0.615,
+   "fill_rate_after": 0.769,
+   "updated_at": "2026-09-30T02:40:00+00:00"
+  }
+ ]
+}

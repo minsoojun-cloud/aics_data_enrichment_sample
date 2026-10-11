@@ -1,0 +1,129 @@
+{
+ "items": [
+  {
+   "rec": {
+    "sku": "00081900756",
+    "kind": "attribute",
+    "attr_key": "household_size",
+    "label": "目安の世帯人数",
+    "raw_value": "4〜5人向け",
+    "value": "4〜5人",
+    "unit": "",
+    "norm_note": "推定値(原本に記載なし)",
+    "evidence": "4〜5人家族向け",
+    "source_field": "",
+    "self_conf": 0.62,
+    "evidence_match": 0.0,
+    "token_conf": 0.71,
+    "score": 0.328,
+    "gate_status": "needs_review",
+    "gate": "gate2",
+    "reason": "根拠が原本に見つかりません(ハルシネーションの疑い)→ 強制レビュー",
+    "job_id": "live-20260930-024000",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-09-30T02:40:00+00:00"
+   },
+   "product": {
+    "sku": "00081900756",
+    "title": "ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H グレー",
+    "image_url": "https://placehold.co/600x600/eef2f7/004098?text=JR-GX41E5-H",
+    "group_label": "冷蔵庫"
+   },
+   "source_text": "【タイトル】ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H グレー\n【説明文】ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H。フレンチドアを採用した、使いやすい大容量モデルです。冷凍室は142Lの大容量で、まとめ買いや作り置きにも便利。自動製氷機能付きで、給水タンクに水を入れるだけで氷を作ります。本体上部はキズや汚れに強いガラストップ仕上げ。年間消費電力量は約338kWh/年と省エネ性能にも配慮しています。\n【属性】\ndimensions: W70.0×H177.5×D68.0cm\nweight: 110kg\ncapacity: 406L\nfreezer_capacity: 142L\nannual_power_consumption: 338kWh/年(50/60Hz)\npower_supply: AC100V 50/60Hz\ndoor_type: フレンチドア"
+  },
+  {
+   "rec": {
+    "sku": "00082233104",
+    "kind": "attribute",
+    "attr_key": "power_supply_v",
+    "label": "電源電圧",
+    "raw_value": "DC5V",
+    "value": 5.0,
+    "unit": "V",
+    "norm_note": "USB 給電 = DC5V と推定",
+    "evidence": "DC5V(USB)",
+    "source_field": "",
+    "self_conf": 0.74,
+    "evidence_match": 0.5,
+    "token_conf": null,
+    "score": 0.596,
+    "gate_status": "needs_review",
+    "gate": "gate2",
+    "reason": "根拠が原本と完全一致しません(値のみ一致 0.5)→ レビュー",
+    "job_id": "live-20260930-024000",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-09-30T02:40:00+00:00"
+   },
+   "product": {
+    "sku": "00082233104",
+    "title": "ドウシシャ ハンディファン 充電式 PIERIA FHS-19C ホワイト",
+    "image_url": "https://placehold.co/600x600/f3f6fb/e60012?text=FHS-19C",
+    "group_label": "ハンディファン・小型扇風機"
+   },
+   "source_text": "【タイトル】ドウシシャ ハンディファン 充電式 PIERIA FHS-19C ホワイト\n【説明文】持ち運びに便利なコードレスのハンディファン。USB充電式で、約3時間の充電で最大約8時間連続使用できます。風量は3段階切替。付属の卓上スタンドにセットすればデスクファンとしても使えます。重さ約160gの軽量設計で、バッグに入れても負担になりません。\n【属性】\ndimensions: 約W10.5×H22.0×D4.5cm\nweight: 約160g\nnumber_of_blades: 5枚\ncharging_time: 約3時間\nbattery_life: 弱:約8時間／強:約2.5時間\npower_supply: USB給電"
+  },
+  {
+   "rec": {
+    "sku": "00081900756",
+    "kind": "attribute",
+    "attr_key": "annual_power_kwh",
+    "label": "年間消費電力量",
+    "raw_value": "約338kWh/年",
+    "value": 338.0,
+    "unit": "kWh/年",
+    "norm_note": "「約」を除去し数値化",
+    "evidence": "約 338 kWh/年",
+    "source_field": "description",
+    "self_conf": 0.8,
+    "evidence_match": 0.8,
+    "token_conf": 0.9,
+    "score": 0.82,
+    "gate_status": "needs_review",
+    "gate": "gate2",
+    "reason": "複合スコア 0.82 < 0.90(確信度不足)",
+    "job_id": "live-20260930-024000",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-09-30T02:40:00+00:00"
+   },
+   "product": {
+    "sku": "00081900756",
+    "title": "ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H グレー",
+    "image_url": "https://placehold.co/600x600/eef2f7/004098?text=JR-GX41E5-H",
+    "group_label": "冷蔵庫"
+   },
+   "source_text": "【タイトル】ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H グレー\n【説明文】ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H。フレンチドアを採用した、使いやすい大容量モデルです。冷凍室は142Lの大容量で、まとめ買いや作り置きにも便利。自動製氷機能付きで、給水タンクに水を入れるだけで氷を作ります。本体上部はキズや汚れに強いガラストップ仕上げ。年間消費電力量は約338kWh/年と省エネ性能にも配慮しています。\n【属性】\ndimensions: W70.0×H177.5×D68.0cm\nweight: 110kg\ncapacity: 406L\nfreezer_capacity: 142L\nannual_power_consumption: 338kWh/年(50/60Hz)\npower_supply: AC100V 50/60Hz\ndoor_type: フレンチドア"
+  },
+  {
+   "rec": {
+    "sku": "00081900756",
+    "kind": "tag",
+    "attr_key": "tag:省エネ",
+    "label": "省エネ",
+    "raw_value": "省エネ",
+    "value": true,
+    "unit": "",
+    "norm_note": "標準タグ辞書に一致",
+    "evidence": "省エネ性能にも配慮",
+    "source_field": "description",
+    "self_conf": 0.7,
+    "evidence_match": 1.0,
+    "token_conf": 0.78,
+    "score": 0.866,
+    "gate_status": "needs_review",
+    "gate": "gate2",
+    "reason": "複合スコア 0.87 < 0.90(確信度不足)",
+    "job_id": "live-20260930-024000",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-09-30T02:40:00+00:00"
+   },
+   "product": {
+    "sku": "00081900756",
+    "title": "ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H グレー",
+    "image_url": "https://placehold.co/600x600/eef2f7/004098?text=JR-GX41E5-H",
+    "group_label": "冷蔵庫"
+   },
+   "source_text": "【タイトル】ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H グレー\n【説明文】ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H。フレンチドアを採用した、使いやすい大容量モデルです。冷凍室は142Lの大容量で、まとめ買いや作り置きにも便利。自動製氷機能付きで、給水タンクに水を入れるだけで氷を作ります。本体上部はキズや汚れに強いガラストップ仕上げ。年間消費電力量は約338kWh/年と省エネ性能にも配慮しています。\n【属性】\ndimensions: W70.0×H177.5×D68.0cm\nweight: 110kg\ncapacity: 406L\nfreezer_capacity: 142L\nannual_power_consumption: 338kWh/年(50/60Hz)\npower_supply: AC100V 50/60Hz\ndoor_type: フレンチドア"
+  }
+ ],
+ "count": 4
+}

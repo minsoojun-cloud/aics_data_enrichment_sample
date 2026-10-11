@@ -1,0 +1,91 @@
+{
+ "totals": {
+  "skus": 100,
+  "processed": 100,
+  "attributes": 1234,
+  "tags": 456,
+  "auto_approved": 1012,
+  "needs_review": 148,
+  "rejected": 6,
+  "human_approved": 20,
+  "human_rejected": 3
+ },
+ "fill_rate": {
+  "before": 0.42,
+  "after": 0.88
+ },
+ "auto_approve_rate": 0.83,
+ "by_group": [
+  {
+   "group": "fridge",
+   "label": "冷蔵庫",
+   "skus": 25,
+   "processed": 25,
+   "fill_before": 0.4,
+   "fill_after": 0.9,
+   "auto_rate": 0.85,
+   "needs_review": 42,
+   "avg_tags_after": 4.2
+  },
+  {
+   "group": "aircon",
+   "label": "エアコン",
+   "skus": 25,
+   "processed": 25,
+   "fill_before": 0.51,
+   "fill_after": 0.93,
+   "auto_rate": 0.88,
+   "needs_review": 31,
+   "avg_tags_after": 5.1
+  },
+  {
+   "group": "fan",
+   "label": "扇風機・サーキュレーター",
+   "skus": 25,
+   "processed": 25,
+   "fill_before": 0.38,
+   "fill_after": 0.86,
+   "auto_rate": 0.8,
+   "needs_review": 38,
+   "avg_tags_after": 3.8
+  },
+  {
+   "group": "handy",
+   "label": "ハンディファン・小型扇風機",
+   "skus": 25,
+   "processed": 25,
+   "fill_before": 0.33,
+   "fill_after": 0.82,
+   "auto_rate": 0.78,
+   "needs_review": 37,
+   "avg_tags_after": 3.5
+  }
+ ],
+ "funnel": {
+  "source_skus": 100,
+  "extracted": 1234,
+  "normalized": 1201,
+  "gate1_passed": 1166,
+  "auto_approved": 1012,
+  "needs_review": 148,
+  "rejected": 6,
+  "golden_skus": 82
+ },
+ "cost": {
+  "basis": "batch",
+  "per_sku_jpy": 0.052,
+  "slide_per_sku_jpy": 0.061,
+  "total_jpy": 5.2,
+  "input_tokens": 152340,
+  "output_tokens": 58210,
+  "skus_measured": 100
+ },
+ "recent_reviews": [
+  {
+   "sku": "00081900756",
+   "attr_key": "fridge_capacity_l",
+   "action": "approve",
+   "reviewed_at": "2026-09-30T02:40:00+00:00"
+  }
+ ]
+}

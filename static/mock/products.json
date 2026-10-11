@@ -1,0 +1,88 @@
+{
+ "items": [
+  {
+   "sku": "00081900756",
+   "title": "ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H グレー",
+   "brand": "ハイアール",
+   "group": "fridge",
+   "group_label": "冷蔵庫",
+   "image_url": "https://placehold.co/600x600/eef2f7/004098?text=JR-GX41E5-H",
+   "price": 139800,
+   "status": "needs_review",
+   "fill_before": 0.562,
+   "fill_after": 0.688,
+   "attr_count": 11,
+   "auto_approved": 9,
+   "needs_review": 3,
+   "rejected": 0,
+   "tags": [
+    "自動製氷",
+    "フレンチドア",
+    "ガラストップ",
+    "大容量冷凍",
+    "省エネ"
+   ]
+  },
+  {
+   "sku": "00082233104",
+   "title": "ドウシシャ ハンディファン 充電式 PIERIA FHS-19C ホワイト",
+   "brand": "ドウシシャ",
+   "group": "handy",
+   "group_label": "ハンディファン・小型扇風機",
+   "image_url": "https://placehold.co/600x600/f3f6fb/e60012?text=FHS-19C",
+   "price": 2980,
+   "status": "needs_review",
+   "fill_before": 0.615,
+   "fill_after": 0.769,
+   "attr_count": 11,
+   "auto_approved": 9,
+   "needs_review": 1,
+   "rejected": 1,
+   "tags": [
+    "コードレス",
+    "USB充電",
+    "卓上スタンド",
+    "軽量"
+   ]
+  },
+  {
+   "sku": "00081765432",
+   "title": "ダイキン ルームエアコン 6畳 AN22ZES-W ホワイト",
+   "brand": "ダイキン",
+   "group": "aircon",
+   "group_label": "エアコン",
+   "image_url": "https://placehold.co/600x600/eef2f7/004098?text=AN22ZES",
+   "price": 79800,
+   "status": "completed",
+   "fill_before": 0.47,
+   "fill_after": 0.93,
+   "attr_count": 14,
+   "auto_approved": 14,
+   "needs_review": 0,
+   "rejected": 0,
+   "tags": [
+    "自動お掃除",
+    "スマホ連携",
+    "100V"
+   ]
+  },
+  {
+   "sku": "00081655555",
+   "title": "山善 DCモーター扇風機 リモコン付き YLX-ED301",
+   "brand": "山善",
+   "group": "fan",
+   "group_label": "扇風機・サーキュレーター",
+   "image_url": "https://placehold.co/600x600/eef2f7/004098?text=YLX-ED301",
+   "price": 7980,
+   "status": "not_processed",
+   "fill_before": 0.31,
+   "fill_after": 0.31,
+   "attr_count": 0,
+   "auto_approved": 0,
+   "needs_review": 0,
+   "rejected": 0,
+   "tags": []
+  }
+ ],
+ "total": 4
+}

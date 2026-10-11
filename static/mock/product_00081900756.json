@@ -1,0 +1,533 @@
+{
+ "product": {
+  "sku": "00081900756",
+  "title": "ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H グレー",
+  "brand": "ハイアール",
+  "category": "冷蔵庫・洗濯機 > 冷蔵庫 > 400L～499L",
+  "description": "ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H。フレンチドアを採用した、使いやすい大容量モデルです。冷凍室は142Lの大容量で、まとめ買いや作り置きにも便利。自動製氷機能付きで、給水タンクに水を入れるだけで氷を作ります。本体上部はキズや汚れに強いガラストップ仕上げ。年間消費電力量は約338kWh/年と省エネ性能にも配慮しています。",
+  "product_url": "https://store.example.com/detail.html?p_cd=00081900756",
+  "image_url": "https://placehold.co/600x600/eef2f7/004098?text=JR-GX41E5-H",
+  "price": 139800,
+  "group": "fridge",
+  "group_label": "冷蔵庫",
+  "raw_attributes": {
+   "dimensions": "W70.0×H177.5×D68.0cm",
+   "weight": "110kg",
+   "capacity": "406L",
+   "freezer_capacity": "142L",
+   "annual_power_consumption": "338kWh/年(50/60Hz)",
+   "power_supply": "AC100V 50/60Hz",
+   "door_type": "フレンチドア"
+  }
+ },
+ "source_text": "【タイトル】ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H グレー\n【説明文】ハイアール 406L 4ドア冷蔵庫 JR-GX41E5-H。フレンチドアを採用した、使いやすい大容量モデルです。冷凍室は142Lの大容量で、まとめ買いや作り置きにも便利。自動製氷機能付きで、給水タンクに水を入れるだけで氷を作ります。本体上部はキズや汚れに強いガラストップ仕上げ。年間消費電力量は約338kWh/年と省エネ性能にも配慮しています。\n【属性】\ndimensions: W70.0×H177.5×D68.0cm\nweight: 110kg\ncapacity: 406L\nfreezer_capacity: 142L\nannual_power_consumption: 338kWh/年(50/60Hz)\npower_supply: AC100V 50/60Hz\ndoor_type: フレンチドア",
+ "targets": [
+  {
+   "key": "width_mm",
+   "label": "幅",
+   "unit": "mm",
+   "type": "number",
+   "raw_keys": [
+    "dimensions"
+   ]
+  },
+  {
+   "key": "height_mm",
+   "label": "高さ",
+   "unit": "mm",
+   "type": "number",
+   "raw_keys": [
+    "dimensions"
+   ]
+  },
+  {
+   "key": "depth_mm",
+   "label": "奥行",
+   "unit": "mm",
+   "type": "number",
+   "raw_keys": [
+    "dimensions"
+   ]
+  },
+  {
+   "key": "weight_kg",
+   "label": "重量",
+   "unit": "kg",
+   "type": "number",
+   "raw_keys": [
+    "weight"
+   ]
+  },
+  {
+   "key": "power_consumption_w",
+   "label": "消費電力",
+   "unit": "W",
+   "type": "number",
+   "raw_keys": [
+    "power_consumption"
+   ]
+  },
+  {
+   "key": "annual_power_kwh",
+   "label": "年間消費電力量",
+   "unit": "kWh/年",
+   "type": "number",
+   "raw_keys": [
+    "annual_power_consumption"
+   ]
+  },
+  {
+   "key": "annual_cost_jpy",
+   "label": "年間電気代",
+   "unit": "円",
+   "type": "number",
+   "raw_keys": [
+    "annual_electricity_cost"
+   ]
+  },
+  {
+   "key": "energy_rating",
+   "label": "省エネ評価(多段階)",
+   "unit": "★",
+   "type": "number",
+   "raw_keys": [
+    "energy_saving_performance"
+   ]
+  },
+  {
+   "key": "power_supply_v",
+   "label": "電源電圧",
+   "unit": "V",
+   "type": "number",
+   "raw_keys": [
+    "power_supply"
+   ]
+  },
+  {
+   "key": "total_capacity_l",
+   "label": "定格内容積",
+   "unit": "L",
+   "type": "number",
+   "raw_keys": [
+    "capacity"
+   ]
+  },
+  {
+   "key": "freezer_capacity_l",
+   "label": "冷凍室容量",
+   "unit": "L",
+   "type": "number",
+   "raw_keys": [
+    "freezer_capacity"
+   ]
+  },
+  {
+   "key": "fridge_capacity_l",
+   "label": "冷蔵室容量",
+   "unit": "L",
+   "type": "number",
+   "raw_keys": [
+    "refrigerator_capacity"
+   ]
+  },
+  {
+   "key": "vegetable_capacity_l",
+   "label": "野菜室容量",
+   "unit": "L",
+   "type": "number",
+   "raw_keys": [
+    "vegetable_compartment_capacity"
+   ]
+  },
+  {
+   "key": "door_count",
+   "label": "ドア数",
+   "unit": "ドア",
+   "type": "number",
+   "raw_keys": []
+  },
+  {
+   "key": "door_type",
+   "label": "ドアタイプ",
+   "unit": "",
+   "type": "text",
+   "raw_keys": [
+    "door_type"
+   ]
+  },
+  {
+   "key": "household_size",
+   "label": "目安の世帯人数",
+   "unit": "",
+   "type": "text",
+   "raw_keys": []
+  }
+ ],
+ "records": [
+  {
+   "sku": "00081900756",
+   "kind": "attribute",
+   "attr_key": "width_mm",
+   "label": "幅",
+   "raw_value": "W70.0×H177.5×D68.0cm",
+   "value": 700.0,
+   "unit": "mm",
+   "norm_note": "W×H×D 表記を分解し cm → mm に換算",
+   "evidence": "W70.0×H177.5×D68.0cm",
+   "source_field": "attributes",
+   "self_conf": 0.95,
+   "evidence_match": 1.0,
+   "token_conf": 0.97,
+   "score": 0.979,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.98 ≥ 0.90",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "attribute",
+   "attr_key": "height_mm",
+   "label": "高さ",
+   "raw_value": "W70.0×H177.5×D68.0cm",
+   "value": 1775.0,
+   "unit": "mm",
+   "norm_note": "W×H×D 表記を分解し cm → mm に換算",
+   "evidence": "W70.0×H177.5×D68.0cm",
+   "source_field": "attributes",
+   "self_conf": 0.95,
+   "evidence_match": 1.0,
+   "token_conf": 0.96,
+   "score": 0.977,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.98 ≥ 0.90",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "attribute",
+   "attr_key": "depth_mm",
+   "label": "奥行",
+   "raw_value": "W70.0×H177.5×D68.0cm",
+   "value": 680.0,
+   "unit": "mm",
+   "norm_note": "W×H×D 表記を分解し cm → mm に換算",
+   "evidence": "W70.0×H177.5×D68.0cm",
+   "source_field": "attributes",
+   "self_conf": 0.95,
+   "evidence_match": 1.0,
+   "token_conf": 0.97,
+   "score": 0.979,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.98 ≥ 0.90",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "attribute",
+   "attr_key": "weight_kg",
+   "label": "重量",
+   "raw_value": "110kg",
+   "value": 110.0,
+   "unit": "kg",
+   "norm_note": "kg 表記をそのまま採用",
+   "evidence": "110kg",
+   "source_field": "attributes",
+   "self_conf": 0.97,
+   "evidence_match": 1.0,
+   "token_conf": 0.98,
+   "score": 0.987,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.99 ≥ 0.90",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "attribute",
+   "attr_key": "total_capacity_l",
+   "label": "定格内容積",
+   "raw_value": "406L",
+   "value": 406.0,
+   "unit": "L",
+   "norm_note": "L 表記をそのまま採用",
+   "evidence": "406L",
+   "source_field": "attributes",
+   "self_conf": 0.98,
+   "evidence_match": 1.0,
+   "token_conf": 0.99,
+   "score": 0.992,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.99 ≥ 0.90",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "attribute",
+   "attr_key": "freezer_capacity_l",
+   "label": "冷凍室容量",
+   "raw_value": "142L",
+   "value": 142.0,
+   "unit": "L",
+   "norm_note": "L 表記をそのまま採用",
+   "evidence": "冷凍室は142Lの大容量",
+   "source_field": "description",
+   "self_conf": 0.93,
+   "evidence_match": 1.0,
+   "token_conf": 0.95,
+   "score": 0.969,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.97 ≥ 0.90",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "attribute",
+   "attr_key": "annual_power_kwh",
+   "label": "年間消費電力量",
+   "raw_value": "約338kWh/年",
+   "value": 338.0,
+   "unit": "kWh/年",
+   "norm_note": "「約」を除去し数値化",
+   "evidence": "約 338 kWh/年",
+   "source_field": "description",
+   "self_conf": 0.8,
+   "evidence_match": 0.8,
+   "token_conf": 0.9,
+   "score": 0.82,
+   "gate_status": "needs_review",
+   "gate": "gate2",
+   "reason": "複合スコア 0.82 < 0.90(確信度不足)",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "attribute",
+   "attr_key": "power_supply_v",
+   "label": "電源電圧",
+   "raw_value": "AC100V",
+   "value": 100.0,
+   "unit": "V",
+   "norm_note": "AC 表記を除去し V に統一",
+   "evidence": "AC100V 50/60Hz",
+   "source_field": "attributes",
+   "self_conf": 0.96,
+   "evidence_match": 1.0,
+   "token_conf": 0.97,
+   "score": 0.982,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.98 ≥ 0.90",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "attribute",
+   "attr_key": "door_count",
+   "label": "ドア数",
+   "raw_value": "4ドア",
+   "value": 4,
+   "unit": "ドア",
+   "norm_note": "「4ドア」→ 4",
+   "evidence": "4ドア冷蔵庫",
+   "source_field": "title",
+   "self_conf": 0.94,
+   "evidence_match": 1.0,
+   "token_conf": 0.95,
+   "score": 0.972,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.97 ≥ 0.90",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "attribute",
+   "attr_key": "door_type",
+   "label": "ドアタイプ",
+   "raw_value": "フレンチドア",
+   "value": "フレンチドア",
+   "unit": "",
+   "norm_note": "標準語彙に一致",
+   "evidence": "フレンチドアを採用",
+   "source_field": "description",
+   "self_conf": 0.95,
+   "evidence_match": 1.0,
+   "token_conf": 0.96,
+   "score": 0.977,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.98 ≥ 0.90",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "attribute",
+   "attr_key": "household_size",
+   "label": "目安の世帯人数",
+   "raw_value": "4〜5人向け",
+   "value": "4〜5人",
+   "unit": "",
+   "norm_note": "推定値(原本に記載なし)",
+   "evidence": "4〜5人家族向け",
+   "source_field": "",
+   "self_conf": 0.62,
+   "evidence_match": 0.0,
+   "token_conf": 0.71,
+   "score": 0.328,
+   "gate_status": "needs_review",
+   "gate": "gate2",
+   "reason": "根拠が原本に見つかりません(ハルシネーションの疑い)→ 強制レビュー",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "tag",
+   "attr_key": "tag:自動製氷",
+   "label": "自動製氷",
+   "raw_value": "自動製氷",
+   "value": true,
+   "unit": "",
+   "norm_note": "標準タグ辞書に一致",
+   "evidence": "自動製氷機能付き",
+   "source_field": "description",
+   "self_conf": 0.97,
+   "evidence_match": 1.0,
+   "token_conf": 0.96,
+   "score": 0.983,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.98 ≥ 0.90",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "tag",
+   "attr_key": "tag:フレンチドア",
+   "label": "フレンチドア",
+   "raw_value": "フレンチドア",
+   "value": true,
+   "unit": "",
+   "norm_note": "標準タグ辞書に一致",
+   "evidence": "フレンチドアを採用",
+   "source_field": "description",
+   "self_conf": 0.96,
+   "evidence_match": 1.0,
+   "token_conf": 0.97,
+   "score": 0.982,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.98 ≥ 0.90",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "tag",
+   "attr_key": "tag:ガラストップ",
+   "label": "ガラストップ",
+   "raw_value": "ガラストップ",
+   "value": true,
+   "unit": "",
+   "norm_note": "標準タグ辞書に一致",
+   "evidence": "ガラストップ仕上げ",
+   "source_field": "description",
+   "self_conf": 0.95,
+   "evidence_match": 1.0,
+   "token_conf": 0.95,
+   "score": 0.975,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.97 ≥ 0.90",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "tag",
+   "attr_key": "tag:大容量冷凍",
+   "label": "大容量冷凍",
+   "raw_value": "大容量冷凍",
+   "value": true,
+   "unit": "",
+   "norm_note": "標準タグ辞書に一致",
+   "evidence": "冷凍室は142Lの大容量",
+   "source_field": "description",
+   "self_conf": 0.9,
+   "evidence_match": 1.0,
+   "token_conf": 0.92,
+   "score": 0.954,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.95 ≥ 0.90",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  },
+  {
+   "sku": "00081900756",
+   "kind": "tag",
+   "attr_key": "tag:省エネ",
+   "label": "省エネ",
+   "raw_value": "省エネ",
+   "value": true,
+   "unit": "",
+   "norm_note": "標準タグ辞書に一致",
+   "evidence": "省エネ性能にも配慮",
+   "source_field": "description",
+   "self_conf": 0.7,
+   "evidence_match": 1.0,
+   "token_conf": 0.78,
+   "score": 0.866,
+   "gate_status": "needs_review",
+   "gate": "gate2",
+   "reason": "複合スコア 0.87 < 0.90(確信度不足)",
+   "job_id": "live-20260930-024000",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-09-30T02:40:00+00:00"
+  }
+ ],
+ "extras": {
+  "search_keywords": [
+   "大容量 冷蔵庫",
+   "4ドア 冷蔵庫 フレンチドア",
+   "自動製氷 冷蔵庫",
+   "ハイアール 冷蔵庫 400L",
+   "冷凍室 大きい 冷蔵庫"
+  ],
+  "ai_summary": "冷凍室142Lの大容量と自動製氷を備えた、幅70cmのフレンチドア4ドア冷蔵庫。まとめ買い派のファミリーに最適です。"
+ },
+ "status": "needs_review",
+ "fill_before": 0.562,
+ "fill_after": 0.688
+}

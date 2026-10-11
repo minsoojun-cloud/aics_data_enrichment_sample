@@ -1,0 +1,157 @@
+{
+ "product": {
+  "sku": "00082233104",
+  "title": "ドウシシャ ハンディファン 充電式 PIERIA FHS-19C ホワイト",
+  "brand": "ドウシシャ",
+  "category": "季節・空調家電 > 扇風機 > ハンディファン",
+  "description": "持ち運びに便利なコードレスのハンディファン。USB充電式で、約3時間の充電で最大約8時間連続使用できます。風量は3段階切替。付属の卓上スタンドにセットすればデスクファンとしても使えます。重さ約160gの軽量設計で、バッグに入れても負担になりません。",
+  "product_url": "https://store.example.com/detail.html?p_cd=00082233104",
+  "image_url": "https://placehold.co/600x600/f3f6fb/e60012?text=FHS-19C",
+  "price": 2980,
+  "group": "handy",
+  "group_label": "ハンディファン・小型扇風機",
+  "raw_attributes": {
+   "dimensions": "約W10.5×H22.0×D4.5cm",
+   "weight": "約160g",
+   "number_of_blades": "5枚",
+   "charging_time": "約3時間",
+   "battery_life": "弱:約8時間／強:約2.5時間",
+   "power_supply": "USB給電"
+  }
+ },
+ "source_text": "【タイトル】ドウシシャ ハンディファン 充電式 PIERIA FHS-19C ホワイト\n【説明文】持ち運びに便利なコードレスのハンディファン。USB充電式で、約3時間の充電で最大約8時間連続使用できます。風量は3段階切替。付属の卓上スタンドにセットすればデスクファンとしても使えます。重さ約160gの軽量設計で、バッグに入れても負担になりません。\n【属性】\ndimensions: 約W10.5×H22.0×D4.5cm\nweight: 約160g\nnumber_of_blades: 5枚\ncharging_time: 約3時間\nbattery_life: 弱:約8時間／強:約2.5時間\npower_supply: USB給電",
+ "gmc": {
+  "sku": "00082233104",
+  "item_group_id": "FHS-19C",
+  "item_group_title": "ドウシシャ ハンディファン 充電式 PIERIA FHS-19C",
+  "variant_options": [
+   {
+    "name": "カラー",
+    "value": "ホワイト",
+    "evidence": "ホワイト",
+    "evidence_match": 1.0
+   }
+  ],
+  "questions_and_answers": [
+   {
+    "question": "充電1回でどれくらい使えますか？",
+    "answer": "約3時間の充電で最大約8時間連続使用できます。",
+    "evidence": "最大約8時間連続使用",
+    "confidence": 0.95,
+    "evidence_match": 1.0,
+    "score": 0.98,
+    "status": "auto_approved"
+   },
+   {
+    "question": "机の上に置いて使えますか？",
+    "answer": "はい、付属の卓上スタンドにセットすればデスクファンとして使えます。",
+    "evidence": "卓上スタンド",
+    "confidence": 0.94,
+    "evidence_match": 1.0,
+    "score": 0.976,
+    "status": "auto_approved"
+   },
+   {
+    "question": "重さはどれくらいですか？",
+    "answer": "約160gの軽量設計です。",
+    "evidence": "約160g",
+    "confidence": 0.96,
+    "evidence_match": 1.0,
+    "score": 0.984,
+    "status": "auto_approved"
+   }
+  ],
+  "product_highlights": [
+   "最大約8時間使える USB 充電式",
+   "約160gの軽量ボディ",
+   "卓上スタンド付きでデスクでも使える"
+  ],
+  "product_details": [
+   {
+    "section": "サイズ・重量",
+    "attribute": "幅",
+    "value": "105mm"
+   },
+   {
+    "section": "サイズ・重量",
+    "attribute": "高さ",
+    "value": "220mm"
+   },
+   {
+    "section": "サイズ・重量",
+    "attribute": "奥行",
+    "value": "45mm"
+   },
+   {
+    "section": "サイズ・重量",
+    "attribute": "重量",
+    "value": "0.16kg"
+   },
+   {
+    "section": "基本仕様",
+    "attribute": "羽根枚数",
+    "value": "5枚"
+   },
+   {
+    "section": "基本仕様",
+    "attribute": "コードレス(充電式)",
+    "value": "対応"
+   },
+   {
+    "section": "バッテリー",
+    "attribute": "連続使用時間(最大)",
+    "value": "8時間"
+   },
+   {
+    "section": "バッテリー",
+    "attribute": "充電時間",
+    "value": "3時間"
+   },
+   {
+    "section": "基本仕様",
+    "attribute": "風量段階",
+    "value": "3段階"
+   },
+   {
+    "section": "機能・特長",
+    "attribute": "搭載機能",
+    "value": "コードレス / USB充電 / 卓上スタンド / 軽量"
+   }
+  ],
+  "related_products": [
+   {
+    "relationship_type": "similar_to",
+    "identifier_type": "id",
+    "identifier": "00081655555",
+    "title": "山善 DCモーター扇風機 リモコン付き YLX-ED301"
+   }
+  ],
+  "popularity_rank": 64.0,
+  "document_link": "https://store.example.com/download/manual/FHS-19C.pdf",
+  "model": "gemini-3.8-flash",
+  "job_id": "csv-live-20260930_062000",
+  "updated_at": "2026-09-30T06:20:00+00:00",
+  "variant_option": "カラー:ホワイト",
+  "question_and_answer": "\"充電1回でどれくらい使えますか？\":\"約3時間の充電で最大約8時間連続使用できます。\", \"机の上に置いて使えますか？\":\"はい、付属の卓上スタンドにセットすればデスクファンとして使えます。\", \"重さはどれくらいですか？\":\"約160gの軽量設計です。\"",
+  "product_highlight": "\"最大約8時間使える USB 充電式\", \"約160gの軽量ボディ\", \"卓上スタンド付きでデスクでも使える\"",
+  "product_detail": "サイズ・重量:幅:\"105mm\", サイズ・重量:高さ:\"220mm\", サイズ・重量:奥行:\"45mm\", サイズ・重量:重量:\"0.16kg\", 基本仕様:羽根枚数:\"5枚\", 基本仕様:コードレス(充電式):\"対応\", バッテリー:連続使用時間(最大):\"8時間\", バッテリー:充電時間:\"3時間\", 基本仕様:風量段階:\"3段階\", 機能・特長:搭載機能:\"コードレス / USB充電 / 卓上スタンド / 軽量\"",
+  "related_product": "similar_to:id:00081655555"
+ },
+ "feed_row": {
+  "id": "00082233104",
+  "item_group_id": "FHS-19C",
+  "title": "ドウシシャ ハンディファン 充電式 PIERIA FHS-19C ホワイト",
+  "item_group_title": "ドウシシャ ハンディファン 充電式 PIERIA FHS-19C",
+  "variant_option": "カラー:ホワイト",
+  "question_and_answer": "\"充電1回でどれくらい使えますか？\":\"約3時間の充電で最大約8時間連続使用できます。\", \"机の上に置いて使えますか？\":\"はい、付属の卓上スタンドにセットすればデスクファンとして使えます。\", \"重さはどれくらいですか？\":\"約160gの軽量設計です。\"",
+  "product_highlight": "\"最大約8時間使える USB 充電式\", \"約160gの軽量ボディ\", \"卓上スタンド付きでデスクでも使える\"",
+  "product_detail": "サイズ・重量:幅:\"105mm\", サイズ・重量:高さ:\"220mm\", サイズ・重量:奥行:\"45mm\", サイズ・重量:重量:\"0.16kg\", 基本仕様:羽根枚数:\"5枚\", 基本仕様:コードレス(充電式):\"対応\", バッテリー:連続使用時間(最大):\"8時間\", バッテリー:充電時間:\"3時間\", 基本仕様:風量段階:\"3段階\", 機能・特長:搭載機能:\"コードレス / USB充電 / 卓上スタンド / 軽量\"",
+  "related_product": "similar_to:id:00081655555",
+  "popularity_rank": 64.0,
+  "document_link": "https://store.example.com/download/manual/FHS-19C.pdf",
+  "brand": "ドウシシャ",
+  "price": "2980 JPY",
+  "link": "https://store.example.com/detail.html?p_cd=00082233104",
+  "image_link": "https://placehold.co/600x600/f3f6fb/e60012?text=FHS-19C"
+ }
+}
